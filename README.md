@@ -1,4 +1,4 @@
-# FlashlightUtil
+# FlashlightUtils
 Android控制手电筒代码，简单易用，不需要任何权限。博客有详解：[https://blog.csdn.net/AlpinistWang/article/details/86772972](https://blog.csdn.net/AlpinistWang/article/details/86772972)
 
 1.控制手电筒开关的工具类：
