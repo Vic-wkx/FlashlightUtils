@@ -80,5 +80,7 @@ public class FlashUtils {
 2.使用方法：
 
 FlashUtils utils = new FlashUtils(this);
-        utils.open();//打开手电筒
-//        utils.close();//关闭手电筒
+
+utils.open();//打开手电筒
+        
+//utils.close();//关闭手电筒
