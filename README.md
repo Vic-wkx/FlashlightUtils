@@ -3,6 +3,7 @@ Android控制手电筒代码，简单易用，不需要任何权限。博客有�
 
 1.控制手电筒开关的工具类：
 
+```
 public class FlashUtils {
     private CameraManager manager;
     private Camera mCamera = null;
@@ -75,12 +76,14 @@ public class FlashUtils {
         }
     }
 }
-
+```
 
 2.使用方法：
 
+```
 FlashUtils utils = new FlashUtils(this);
 
 utils.open();//打开手电筒
         
 //utils.close();//关闭手电筒
+```
